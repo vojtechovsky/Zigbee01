@@ -11,6 +11,8 @@
     <OutputPath>.</OutputPath>
     <Name>Zigbee01</Name>
     <RootNamespace>Zigbee01</RootNamespace>
+    <InterpreterId>
+    </InterpreterId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
